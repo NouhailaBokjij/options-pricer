@@ -1,5 +1,6 @@
 numpy
-scipy
-matplotlib
-streamlit
 pandas
+matplotlib
+scipy
+yfinance
+streamlit==1.44.0
