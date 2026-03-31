@@ -1,6 +1,6 @@
 # Options Pricer — Black-Scholes & Binomial
 
-An interactive web application for pricing financial options using two classic
+An interactive web page for pricing financial options using two classic
 quantitative finance methods, built from scratch in Python.
 
 ## Overview
